@@ -9,7 +9,7 @@
   html,
   body {
     height: 100%;
-  
+
     width: 100%;
   }
 
@@ -86,8 +86,8 @@
     content: "I. Me. MYSELF.";
     position: absolute;
     color: #000;
-    top: -4px;
-    right: -4px;
+    top: -2px;
+    right: -2px;
     -webkit-text-stroke: 3px  #95c11e;
     z-index: -1;
   }
